@@ -17,7 +17,7 @@ const Location = () => {
           <div className="flex-1 fs-1-25">
             Tuesday
           </div>
-          <div className="flex-2 fs-1 vertical-align">
+          <div className="flex-2 fs-0-95 vertical-align">
             <strong>TODAY</strong>
           </div>
           <div className="flex-0-5 fs-1-25 fw-500">
@@ -143,12 +143,110 @@ const Location = () => {
         <hr />
       </div>
       <div className="ml-1-25 mr-1-25 mt-0-5">
-        <div className="flex-container">
+        <div className="flex-container mt-0-5">
           <div className="flex-6 fs-1-25">
             Wednesday
           </div>
           <div className="flex-4">
-            Icon
+            🌙
+          </div>
+          <div className="flex-2 fs-1-25">
+            76
+          </div>
+          <div className="fs-1-25 fc-gray">
+            57
+          </div>
+        </div>
+        <div className="flex-container mt-0-5">
+          <div className="flex-6 fs-1-25">
+            Wednesday
+          </div>
+          <div className="flex-4">
+            🌙
+          </div>
+          <div className="flex-2 fs-1-25">
+            76
+          </div>
+          <div className="fs-1-25 fc-gray">
+            57
+          </div>
+        </div>
+        <div className="flex-container mt-0-5">
+          <div className="flex-6 fs-1-25">
+            Wednesday
+          </div>
+          <div className="flex-4">
+            🌙
+          </div>
+          <div className="flex-2 fs-1-25">
+            76
+          </div>
+          <div className="fs-1-25 fc-gray">
+            57
+          </div>
+        </div>
+        <div className="flex-container mt-0-5">
+          <div className="flex-6 fs-1-25">
+            Wednesday
+          </div>
+          <div className="flex-4">
+            🌙
+          </div>
+          <div className="flex-2 fs-1-25">
+            76
+          </div>
+          <div className="fs-1-25 fc-gray">
+            57
+          </div>
+        </div>
+        <div className="flex-container mt-0-5">
+          <div className="flex-6 fs-1-25">
+            Wednesday
+          </div>
+          <div className="flex-4">
+            🌙
+          </div>
+          <div className="flex-2 fs-1-25">
+            76
+          </div>
+          <div className="fs-1-25 fc-gray">
+            57
+          </div>
+        </div>
+        <div className="flex-container mt-0-5">
+          <div className="flex-6 fs-1-25">
+            Wednesday
+          </div>
+          <div className="flex-4">
+            🌙
+          </div>
+          <div className="flex-2 fs-1-25">
+            76
+          </div>
+          <div className="fs-1-25 fc-gray">
+            57
+          </div>
+        </div>
+        <div className="flex-container mt-0-5">
+          <div className="flex-6 fs-1-25">
+            Wednesday
+          </div>
+          <div className="flex-4">
+            🌙
+          </div>
+          <div className="flex-2 fs-1-25">
+            76
+          </div>
+          <div className="fs-1-25 fc-gray">
+            57
+          </div>
+        </div>
+        <div className="flex-container mt-0-5">
+          <div className="flex-6 fs-1-25">
+            Wednesday
+          </div>
+          <div className="flex-4">
+            🌙
           </div>
           <div className="flex-2 fs-1-25">
             76
@@ -160,6 +258,9 @@ const Location = () => {
       </div>
       <div>
         Current Weather
+      </div>
+      <div>
+        Sticky footer
       </div>
     </div>
   )

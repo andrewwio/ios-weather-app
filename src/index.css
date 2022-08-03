@@ -30,7 +30,7 @@ hr {
 }
 .vertical-align {
   height: 1.5rem;
-  line-height: 1.5rem;
+  line-height: 1.8rem;
 }
 
 .flex-container {
@@ -262,6 +262,9 @@ hr {
 }
 .fs-0-75 {
   font-size: .75rem;
+}
+.fs-0-95 {
+  font-size: .95rem;
 }
 .fs-1 {
   font-size: 1rem;
