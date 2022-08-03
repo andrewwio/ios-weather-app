@@ -78,6 +78,9 @@ hr {
 .flex-5 {
   flex: 5;
 }
+.flex-6 {
+  flex: 6;
+}
 
 .mt-0-25 {
   margin-top: .25rem;
@@ -263,6 +266,9 @@ hr {
 .fs-1 {
   font-size: 1rem;
 }
+.fs-1-1 {
+  font-size: 1.1rem;
+}
 .fs-1-25 {
   font-size: 1.25rem;
 }
@@ -413,4 +419,8 @@ hr {
 
 .fc-gray {
   color: rgb(164, 164, 164);
+}
+
+.overflow-x-auto {
+  overflow: auto;
 }

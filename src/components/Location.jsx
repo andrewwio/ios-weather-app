@@ -12,7 +12,7 @@ const Location = () => {
           71°
         </div>
       </div>
-      <div className="mt-0-5">
+      <div className="mt-0-25">
         <div className="flex-container ml-1-25 mr-1-25 mb-0-75">
           <div className="flex-1 fs-1-25">
             Tuesday
@@ -28,21 +28,135 @@ const Location = () => {
           </div>
         </div>
         <hr />
-        <div className="ml-1-25 mt-1">
-          <div>
-            Time
+        <div className="ml-1-25 mt-0-5 mb-0-75 overflow-x-auto flex-container">
+          <div className="mr-1-75">
+            <div className="fw-500 fs-1-1">
+              Now
+            </div>
+            <div className="mt-1">
+              🌙
+            </div>
+            <div className="mt-1 fw-500 fs-1-25">
+              71°
+            </div>
           </div>
-          <div>
-            Icon
+          <div className="mr-1-75">
+            <div className="fs-1-1">
+              03
+            </div>
+            <div className="mt-1">
+              🌙
+            </div>
+            <div className="mt-1 fs-1-25">
+              71°
+            </div>
           </div>
-          <div>
-            Temp
+          <div className="mr-1-75">
+            <div className="fs-1-1">
+              04
+            </div>
+            <div className="mt-1">
+              🌙
+            </div>
+            <div className="mt-1 fs-1-25">
+              71°
+            </div>
+          </div>
+          <div className="mr-1-75">
+            <div className="fs-1-1">
+              05
+            </div>
+            <div className="mt-1">
+              🌙
+            </div>
+            <div className="mt-1 fs-1-25">
+              71°
+            </div>
+          </div>
+          <div className="mr-1-75">
+            <div className="fs-1-1">
+              06
+            </div>
+            <div className="mt-1">
+              🌙
+            </div>
+            <div className="mt-1 fs-1-25">
+              71°
+            </div>
+          </div>
+          <div className="mr-1-75">
+            <div className="fs-1-1">
+              02
+            </div>
+            <div className="mt-1">
+              🌙
+            </div>
+            <div className="mt-1 fs-1-25">
+              71°
+            </div>
+          </div>
+          <div className="mr-1-75">
+            <div className="fs-1-1">
+              02
+            </div>
+            <div className="mt-1">
+              🌙
+            </div>
+            <div className="mt-1 fs-1-25">
+              71°
+            </div>
+          </div>
+          <div className="mr-1-75">
+            <div className="fs-1-1">
+              02
+            </div>
+            <div className="mt-1">
+              🌙
+            </div>
+            <div className="mt-1 fs-1-25">
+              71°
+            </div>
+          </div>
+          <div className="mr-1-75">
+            <div className="fs-1-1">
+              02
+            </div>
+            <div className="mt-1">
+              🌙
+            </div>
+            <div className="mt-1 fs-1-25">
+              71°
+            </div>
+          </div>
+          <div className="mr-1-75">
+            <div className="fs-1-1">
+              02
+            </div>
+            <div className="mt-1">
+              🌙
+            </div>
+            <div className="mt-1 fs-1-25">
+              71°
+            </div>
           </div>
         </div>
         <hr />
       </div>
-      <div>
-        Daily forecast
+      <div className="ml-1-25 mr-1-25 mt-0-5">
+        <div className="flex-container">
+          <div className="flex-6 fs-1-25">
+            Wednesday
+          </div>
+          <div className="flex-4">
+            Icon
+          </div>
+          <div className="flex-2 fs-1-25">
+            76
+          </div>
+          <div className="fs-1-25 fc-gray">
+            57
+          </div>
+        </div>
       </div>
       <div>
         Current Weather
