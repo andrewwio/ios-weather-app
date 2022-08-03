@@ -1,3 +1,4 @@
+import './index.css'
 import Location from './components/Location'
 
 function App() {

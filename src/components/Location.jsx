@@ -1,34 +1,34 @@
 const Location = () => {
   return (
     <div>
-      <div className="center mt-2-5">
+      <div className="center mt-3-5">
         <div className="fs-2">
           Fargo
         </div>
         <div>
-          Mostly Sunny
+          Clear
         </div>
-        <div className="mt-0-5 fs-5 fw-200">
-          82°
+        <div className="nls-0-5 fs-6 fw-100">
+          71°
         </div>
       </div>
       <div className="mt-0-5">
-        <div className="flex-container ml-1 mr-1">
-          <div className="flex-1">
+        <div className="flex-container ml-1-25 mr-1-25 mb-0-75">
+          <div className="flex-1 fs-1-25">
             Tuesday
           </div>
-          <div className="flex-2-5 fs-0-5 vertical-align">
+          <div className="flex-2 fs-1 vertical-align">
             <strong>TODAY</strong>
           </div>
-          <div className="flex-0-75">
-            83
+          <div className="flex-0-5 fs-1-25 fw-500">
+            77
           </div>
-          <div>
-            65
+          <div className="fs-1-25 fc-gray">
+            64
           </div>
         </div>
         <hr />
-        <div className="ml-1">
+        <div className="ml-1-25 mt-1">
           <div>
             Time
           </div>
